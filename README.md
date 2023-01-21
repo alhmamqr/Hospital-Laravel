@@ -3,6 +3,7 @@
 
 ## Overview
 <p>
+  <p>  using Jetstream Package. </p>
 Establishing a simple hospital management system with a control panel for the admin and a display page for the user and visitor
 With the possibility of taking an appointment from a specific doctor and a specific department
 </p>
